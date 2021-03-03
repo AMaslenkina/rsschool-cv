@@ -10,6 +10,12 @@ My name is Nastya. I'm 19. I am from Gomel and study at the Francysk Skaryna Gom
  * Eager to learn
  * Highly organized and detail-oriented
  * Dependable
+ 
+#### Skills:
+ * HTML
+ * Java Script
+ * Python
+ * Java
 
 **Code examples**
 ```javascript
@@ -22,5 +28,5 @@ function even_or_odd(number) {
   }
 }
 ```
-#### English Language
+#### English Language:
 I used to have a speaking practice with exchange students. I work with a tutor to improve my English level. 
