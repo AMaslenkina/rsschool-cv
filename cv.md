@@ -1,6 +1,9 @@
-# Maslenkina Anastasiya
+Maslenkina Anastasiya
+==
 #### Contacts:
-*nastya2003380@gmail.com*
+Email: *nastya2003380@gmail.com*
+
+Phone: *+375 (044) 11-111-11*
 
 My name is Nastya. I'm 19. I am from Gomel and study at the Francysk Skaryna Gomel State University. My specialty is programming microcontrollers. My goal is to be a stat web developer.
 
