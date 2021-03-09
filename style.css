@@ -67,3 +67,7 @@ footer{
     align-items: center;
     position: center;
 }
+
+.contacts{
+    text-decoration: none;
+}
