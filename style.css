@@ -7,7 +7,7 @@ body {
     align-items: center;
     justify-content: center;
 }
-.box {
+.header__weapper {
     width: 60%;
     color: #000000;
     background: linear-gradient(#9caeae 30%, #bfd2d2);
@@ -30,6 +30,11 @@ h1{
 h2{
     padding-left: 15%;
 }
+
+p{
+    padding-bottom: 15px;
+}
+
 img#icon{
     max-width: 30%;
 }
@@ -40,15 +45,19 @@ img#icon{
     color: #6d535c;
 }
 
+.obl:hover, .obl:focus, .obl:active{
+   color: #3d2e32;
+    text-decoration: underline;
+}
+
 section{
     padding-left: 10%;
     padding-right: 10%;
+    padding-bottom: 15px;
 }
-
-.code {
-    background-color: #d4cbcb;
-    padding: 3px;
-    font-size: 90%;
+ul{
+    margin-top: 5px;
+    margin-bottom: 0px;
 }
 
 .link{
@@ -66,6 +75,9 @@ footer{
     justify-content: space-around;
     align-items: center;
     position: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 60%;
 }
 
 .contacts{
